@@ -8,7 +8,7 @@ import axios from 'axios'
 export default class Quote extends Component {
     state={
         quote:'The purpose of our lives is to be happy',
-        author:' Dalai Lama',
+        author:' Dalai Lamadd',
         quotesData:[],
         color:'rgb(243,156,18)',
 
